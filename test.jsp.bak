@@ -8,7 +8,6 @@
   <% 
 		String bookTitle="DG's book";
 		String author="DG Hong";
-		String bookCover="dd";
   %>
   <b><%=bookTitle%></b>(<%=author +'here we go'%>)입니다.
  </body>
